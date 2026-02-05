@@ -1,2 +1,2 @@
 Esta é a primeira linha 
-conflito
+Com conflito
