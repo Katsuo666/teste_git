@@ -1,2 +1,2 @@
 Esta ‚ a primeira linha 
-Conflito
+Linha sem conflito
